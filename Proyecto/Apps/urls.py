@@ -4,6 +4,7 @@ from .views import *
 urlpatterns = [
     
     path('inicio',inicio),
+    path('formulario',formulario),
     
 
 
